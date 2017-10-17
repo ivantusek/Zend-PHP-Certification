@@ -1,10 +1,3 @@
-<?php
-
-/*
- * Consider the following script:
- * 
- * */
-?>
 <html>
 	<head>
 		<title>
@@ -18,18 +11,18 @@
 			</body>
 </html>
 
-<?php 
-    //Which of the following tags is used in the php script?
+
+    Which of the following tags is used in the php script?
     
-/*      (A) Standard tag --> ok
- * 
+        (A) Standard tag --> ok
+
         (B) ASP tag
         
         (C) Script tag 
         
         (D) Short tag 
-*/
-?>
+
+
     Explanation:
     In the above question, the standard php tag format is used, as shown below: */
     
