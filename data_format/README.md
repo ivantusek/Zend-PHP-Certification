@@ -9,7 +9,7 @@
 ![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/006.jpg)
 ![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/007.jpg)
 ![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/008.jpg)
-![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/09.jpg)
+![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/009.jpg)
 ![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/010.jpg)
 ![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/011.jpg)
 ![](https://github.com/ivantusek/Zend-PHP-Certification/blob/master/data_format/012.jpg)
